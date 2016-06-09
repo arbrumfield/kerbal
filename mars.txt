@@ -1,2 +1,2 @@
-mars is a read planet and smaller than earth
+git mars is a read planet and smaller than earth
 and is Named after the Roman god of war.
